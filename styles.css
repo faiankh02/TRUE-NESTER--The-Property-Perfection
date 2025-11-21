@@ -94,6 +94,13 @@ body {
     font-size: 1.5rem;
 }
 
+/* Page Main Content */
+.page-main {
+    margin-top: 100px;
+    padding: 2rem;
+    text-align: center;
+}
+
 /* Responsive Design */
 @media screen and (max-width: 768px) {
     .hamburger {
